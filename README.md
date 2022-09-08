@@ -1,4 +1,4 @@
-<h1>Mapping_Earthquakes</h1>
+<h1>Mapping Earthquakes</h1>
 <h4>Module 13 of DU Data Bootcamp</h4>
 
 <h2>Overview of Project</h2>
@@ -11,8 +11,8 @@ The purpose of this project is to visually show the differences between the magn
 
 <h3>Analysis of Outcomes Based on Project</h3>
 
-### Analysis of Outcomes Based on Challenges and Goals
+<h3>Analysis of Outcomes Based on Challenges and Goals</h3>
 
-### Challenges and Difficulties Encountered
+<h3>Challenges and Difficulties Encountered</h3>
 
-## Results
+<h2>Results</h2>
