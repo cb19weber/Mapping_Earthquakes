@@ -34,5 +34,24 @@ cityData.forEach(function(city) {
     .addTo(map);
 });
 
+// Create a line
+let line1 = [
+    cityData[7].location,
+    cityData[8].location,
+    cityData[6].location
+];
+let line2 = [
+    cityData[6].location,
+    cityData[5].location
+]
+
+// Create a polyline using the line coordinates and make the line red
+L.polyline(line1, {
+    color: "yellow"
+}).addTo(map);
+L.polyline(line2, {
+    color: "lightblue"
+}).addTo(map);
+
 // Then we add our 'graymap' tile layer to the map.
 streets.addTo(map);
