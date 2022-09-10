@@ -39,5 +39,17 @@ var cities = [{
     city: "Denver",
     state: "CO",
     population: 2963821
+  },
+  {
+    location: [36.98504, -121.57632],
+    city: "Gilroy",
+    state: "CA",
+    population: 56766,
+  },
+  {
+    location: [40.68885, -111.52339],
+    city: "Park City",
+    state: "UT",
+    population: 8467
   }
   ];
