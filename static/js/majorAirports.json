@@ -68,5 +68,6 @@
   {"type":"Feature","properties":{"id":"580","name":"Amsterdam Airport Schiphol","city":"Amsterdam","country":"Netherlands","faa":"AMS","icao":"EHAM","alt":"-11","tz-offset":"1","dst":"E","tz":"Europe/Amsterdam"},"geometry":{"type":"Point","coordinates":[4.76389,52.308601]}}
   ,
   {"type":"Feature","properties":{"id":"3316","name":"Singapore Changi Airport","city":"Singapore","country":"Singapore","faa":"SIN","icao":"WSSS","alt":"22","tz-offset":"8","dst":"N","tz":"Asia/Singapore"},"geometry":{"type":"Point","coordinates":[103.994003,1.35019]}}
-
+  ,
+  {"type":"Feature","properties":{"id":"5280","name":"Denver International Airport","city":"Denver","country":"United States","faa":"DIA","icao":"KDEN","alt":"5434","tz-offset":"-7","dst":"A","tz":"America/Denver"},"geometry":{"type":"Point","coordinates":[-104.67263,39.87865]}}
 ]}
